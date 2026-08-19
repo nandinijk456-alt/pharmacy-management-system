@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Used for pain and fever relief",
+    "ExpiryDate": "2027-01-15T00:00:00",
+    "Quantity": 15,
+    "Price": 10.50,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 2,
+    "FullName": "Amoxicillin 500mg",
+    "Notes": "Antibiotic medicine",
+    "ExpiryDate": "2026-09-05T00:00:00",
+    "Quantity": 7,
+    "Price": 18.75,
+    "Brand": "Sun Pharma"
+  },
+  {
+    "Id": 3,
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Used for allergy relief",
+    "ExpiryDate": "2027-05-20T00:00:00",
+    "Quantity": 50,
+    "Price": 5.25,
+    "Brand": "Dr. Reddy\u0027s"
+  },
+  {
+    "Id": 4,
+    "FullName": "Ibuprofen 400mg",
+    "Notes": "Pain and inflammation relief",
+    "ExpiryDate": "2026-09-01T00:00:00",
+    "Quantity": 15,
+    "Price": 12.00,
+    "Brand": "Abbott"
+  },
+  {
+    "Id": 5,
+    "FullName": "Azithromycin 500mg",
+    "Notes": "Antibiotic medicine",
+    "ExpiryDate": "2027-06-30T00:00:00",
+    "Quantity": 13,
+    "Price": 25.50,
+    "Brand": "Zydus"
+  },
+  {
+    "Id": 6,
+    "FullName": "Vitamin C 500mg",
+    "Notes": "Test low stock indication",
+    "ExpiryDate": "2027-12-31T00:00:00",
+    "Quantity": 5,
+    "Price": 20,
+    "Brand": "Test"
+  }
+]

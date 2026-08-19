@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "MedicineId": 1,
+    "MedicineName": "Paracetamol 500mg",
+    "QuantitySold": 2,
+    "TotalAmount": 21.00,
+    "SaleDate": "2026-08-19T19:49:11.6244387+05:30"
+  },
+  {
+    "Id": 2,
+    "MedicineId": 1,
+    "MedicineName": "Paracetamol 500mg",
+    "QuantitySold": 8,
+    "TotalAmount": 84.00,
+    "SaleDate": "2026-08-19T22:05:47.1526016+05:30"
+  },
+  {
+    "Id": 3,
+    "MedicineId": 5,
+    "MedicineName": "Azithromycin 500mg",
+    "QuantitySold": 7,
+    "TotalAmount": 178.50,
+    "SaleDate": "2026-08-19T22:08:04.4416012+05:30"
+  }
+]

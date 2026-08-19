@@ -1,0 +1,20 @@
+# .NET
+**/bin/
+**/obj/
+
+# React
+**/node_modules/
+**/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
